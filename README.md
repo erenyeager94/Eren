@@ -1,2 +1,1 @@
-# Eren
-P_AI
+# web for Python
